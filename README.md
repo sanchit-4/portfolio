@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Sanchit Goyal**, I'd like to share the portfolio 
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
+**Website Link:** [Link](https://sanchit-goyal-portfolio.vercel.app/)
 
 ## 🛠️ Tech Stack
 
